@@ -15,7 +15,7 @@ per petak, memakai R (lidR, sf) dan PostgreSQL/PostGIS.
 4. Deteksi puncak pohon (local maximum filter, ws = 5)
 5. Penyimpanan ke PostGIS dan perhitungan statistik per petak dengan SQL
 
-![CHM](output/chm.png)
+![CHM](output/02_chm.png)
 
 ## Hasil
 
