@@ -1,0 +1,7 @@
+data/
+*.las
+*.laz
+*.tif
+.Rhistory
+.Renviron
+.Rproj.user
